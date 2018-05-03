@@ -1,3 +1,12 @@
+/*
+ * Date:  2018.05.03
+ * Url:   https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/
+ * Title: 从排序数组中删除重复项
+ *
+ */
+
+
+
 public class Main {
 
     public static void main(String[] args) {

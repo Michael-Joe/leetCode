@@ -23,8 +23,7 @@ public class Main {
         //handler3.rotate(arr1, k);
 
         //System.out.println(Arrays.toString(handler1.rotate(arr1, k)));
-        System.out.println(Arrays.toString(arr1));
-
+        //System.out.println(Arrays.toString(arr1));
 
 
     }

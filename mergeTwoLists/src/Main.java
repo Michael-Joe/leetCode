@@ -11,14 +11,15 @@ public class Main {
 //        ListNode l1 = new ListNode(4);
 //        l1 = insert(l1, 2);
 //        l1 = insert(l1, 1);
-ListNode l1=null;
+        ListNode l1 = null;
+
         ListNode l2 = new ListNode(4);
         l2 = insert(l2, 3);
         l2 = insert(l2, 2);
         l2 = insert(l2, 1);
 
         ListNode tmp = new ListNode(0);
-        tmp=handler.mergeTwoLists(l1,l2);
+        tmp = handler.mergeTwoLists(l1, l2);
 
         while (tmp != null) {
             System.out.print(tmp.val + ",");

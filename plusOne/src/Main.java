@@ -19,5 +19,7 @@ public class Main {
             System.out.print(num+",");
         }
 
+        String te="[]";
+        System.out.println("【】长度："+te.length());
     }
 }

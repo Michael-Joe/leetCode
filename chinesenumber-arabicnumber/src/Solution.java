@@ -11,7 +11,6 @@ import java.util.List;
 
 public class Solution {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
         testFunc();
 //        Solution s = new Solution();
 //        System.out.println(s.changeNumber("六千零一十万三千二百五十六"));

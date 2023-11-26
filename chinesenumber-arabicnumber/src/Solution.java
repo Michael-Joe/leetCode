@@ -34,12 +34,6 @@ public class Solution {
             }
             return result;
         }
-        // 2. 单独处理形如“十二”此类
-//        if (chineseArray[0] == '十') {
-//            if (chineseArray.length>1){
-//                return return 10 + chineseArray[1]
-//            }
-//        }
 
         // 3. 从右向左，拼普通字符串
         long magnification = 1;
